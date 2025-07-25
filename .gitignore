@@ -1,0 +1,19 @@
+# Build artifacts
+/build/
+
+# IDE files
+.vscode/
+.idea/
+
+# Binaries
+*.exe
+*.o
+*.obj
+*.dll
+*.lib
+*.so
+*.dylib
+
+# Editor specific files
+*.swp
+*.swo
